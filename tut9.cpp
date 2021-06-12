@@ -9,6 +9,7 @@ int main(){
     
     int age;
     cout<< "Tell me your age"<<endl;
+    
     cin>>age;
 
     //********** 1. Selection control structure: If else-if else ladder *****************
